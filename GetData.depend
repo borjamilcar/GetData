@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1534430318 source:c:\users\rei panda\desktop\huffman\getdata\main.cpp
+	"stdio.h"
+	"GetData.h"
+
+1534431333 c:\users\rei panda\desktop\huffman\getdata\include\getdata.h
+
+1534431293 source:c:\users\rei panda\desktop\huffman\getdata\src\getdata.cpp
+	"GetData.h"
+	"string.h"
+	"stdio.h"
+	"stdlib.h"
+
+1534430318 source:c:\users\rei panda\desktop\huffman\getdata\getdata\main.cpp
+	"stdio.h"
+	"GetData.h"
+
+1534431333 c:\users\rei panda\desktop\huffman\getdata\getdata\include\getdata.h
+
+1534431367 source:c:\users\rei panda\desktop\huffman\getdata\getdata\src\getdata.cpp
+	"GetData.h"
+	"string.h"
+	"stdio.h"
+	"stdlib.h"
+
